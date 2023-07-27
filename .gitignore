@@ -1,0 +1,12 @@
+# Dependency directories
+Examples/OAuthProxyExample/node_modules
+node_modules/
+F1Data/
+
+# Envs or tools
+_site/
+.nyc_output/
+.eslintcache
+.DS_Store
+Gemfile
+TableauMondayConnector/.env
